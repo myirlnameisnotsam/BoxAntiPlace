@@ -1,0 +1,4 @@
+name: cubebox
+version: '${version}'
+main: org.pedro.cubebox.Cubebox
+api-version: 1.19
